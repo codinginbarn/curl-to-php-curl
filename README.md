@@ -1,4 +1,4 @@
-Curl-to-PHP
+-Curl to PHP Curl
 ===========
 
 Curl-to-PHP is a tool to instantly convert [curl](http://curl.haxx.se) commands to PHP code in the browser. It does *not* guarantee high-fidelity conversions, but it's good enough for most API docs that have curl samples.
@@ -8,7 +8,7 @@ This is a derivitive of [curl-to-Go](http://mholt.github.io/curl-to-go/), which 
 
 ### Try it
 
-**[Check it out!](https://incarnate.github.io/curl-to-php)** It works inside your browser. Just give the code a once-over since you may want to improve the error handling.
+**[Check it out!](https://codinginbarn.github.io/curl-to-php-curl)** It works inside your browser. Just give the code a once-over since you may want to improve the error handling.
 
 
 ### FAQ
@@ -29,4 +29,4 @@ curl has like a bajillion options, so don't expect all of them to be implemented
 
 ### Credits
 
-Curl-to-PHP is brought to you by John C ([@incarnated](https://twitter.com/incarnated)), based on the work of Matt Holt ([mholt6](https://twitter.com/mholt6)).
+Curl-to-PHP is brought to you by John C ([@incarnated](https://twitter.com/incarnated)) and Coding in a Barn, based on the work of Matt Holt ([mholt6](https://twitter.com/mholt6)).
